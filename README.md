@@ -1,5 +1,5 @@
 
-# 'Crypto Price Checker'
+# `Crypto Price Checker`
 
 A website to check Trending Real Time prices of 100+ Cryptocurrencies
 
